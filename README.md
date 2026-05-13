@@ -91,7 +91,7 @@ If you find our work useful for your research, please consider citing:
 This project is built upon the following open-source repositories:
 
 - [diffusers](https://github.com/huggingface/diffusers)
-- [DiffusionSat]([samar-khanna/DiffusionSat: Official code repository for ICLR 2024 paper "DiffusionSat: A Generative Foundation Model for Satellite Imagery"](https://github.com/samar-khanna/DiffusionSat))
+- [DiffusionSat](https://github.com/samar-khanna/DiffusionSat))
 
 ------
 
