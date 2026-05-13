@@ -19,7 +19,7 @@ def main():
     parser.add_argument('--image_size', type=int, default=512)
     parser.add_argument('--edge_width_ratio', type=float, default=0.1)
     parser.add_argument('--dtype', type=str, default='fp16', choices=['fp16', 'fp32', 'bf16'],)
-    parser.add_argument('--visualization_path', type=str, default='./demo/visualization')
+    parser.add_argument('--visualization_path', type=str, default='./visualization')
 
 
     args = parser.parse_args()
