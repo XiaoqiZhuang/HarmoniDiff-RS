@@ -1,6 +1,6 @@
 # HarmoniDiff-RS: Training-Free Diffusion Harmonization for Satellite Image Composition
 
-This is the official implementation of the paper "**HarmoniDiff-RS: Training-Free Diffusion Harmonization for Satellite Image Composition**".
+This is the official implementation of the paper ["**HarmoniDiff-RS: Training-Free Diffusion Harmonization for Satellite Image Composition**"](https://arxiv.org/abs/2604.19392).
 
 HarmoniDiff-RS is a training-free framework designed to achieve high-quality harmonization for remote sensing (RS) images by leveraging the generative power of Diffusion Models.
 
@@ -69,7 +69,7 @@ The dataset used in our paper, which is an adapted version derived from **fMoW**
 
 - **Zenodo Repository**: [https://zenodo.org/records/20187102](https://zenodo.org/records/20187102)
 
-> **Note**: This dataset is released under the **Functional Map of the World Challenge Public License**. It is intended for **Non-Commercial Research Purposes only**. Users must attribute the original fMoW data sources and this project accordingly.
+> **Note**: This dataset is released under the **Functional Map of the World Challenge Public License**.
 
 ------
 
