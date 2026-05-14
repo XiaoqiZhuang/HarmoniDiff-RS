@@ -63,9 +63,13 @@ python inference.py \
 
 ------
 
-## 📊 3. Dataset & Pre-trained Models
+## 📊 3. RSIC-H Dataset 
 
-- coming soon
+The dataset used in our paper, which is an adapted version derived from **fMoW**, is now publicly available on **Zenodo**.
+
+- **Zenodo Repository**: [https://zenodo.org/records/20187102](https://zenodo.org/records/20187102)
+
+> **Note**: This dataset is released under the **Functional Map of the World Challenge Public License**. It is intended for **Non-Commercial Research Purposes only**. Users must attribute the original fMoW data sources and this project accordingly.
 
 ------
 
@@ -92,6 +96,7 @@ This project is built upon the following open-source repositories:
 
 - [diffusers](https://github.com/huggingface/diffusers)
 - [DiffusionSat](https://github.com/samar-khanna/DiffusionSat)
+- [fMoW](https://github.com/fMoW/dataset)
 
 ------
 
